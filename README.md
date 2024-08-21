@@ -4,6 +4,11 @@
 
 Neitek is a full-stack web application that allows users to manage sales and commissions, and view detailed records. The application is protected by JWT authentication, supports user registration, and provides features for managing and viewing sales and commission data.
 
+<img width="1424" alt="neitek-home" src="https://github.com/user-attachments/assets/b84d31f0-80d0-40fe-a3bc-066bc9a38a4b">
+<img width="1426" alt="neitek-comission" src="https://github.com/user-attachments/assets/8de0f4d1-8219-4fc6-b6b1-ac89be99982b">
+<img width="1423" alt="neitek-create-sale" src="https://github.com/user-attachments/assets/434bba77-46bd-4157-9ea3-06f1b58eb111">
+
+
 ## Features
 
 ### Frontend
@@ -71,5 +76,7 @@ Neitek is a full-stack web application that allows users to manage sales and com
 2. ```bash
     npm install
     npm start
+When you first run the project, 2 default users will be created along with Sales and Comission data.
+These users are: email: user1@example.com password: password123 email: user2@example.com password: password123 
 the start command will run both client and server at once.
 All you need to do is make sure you have a local postgresql instance running, which you can then configure in .env inside of /api/src
