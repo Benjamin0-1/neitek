@@ -6,7 +6,6 @@ Neitek is a full-stack web application that allows users to manage sales and com
 
 <img width="1424" alt="neitek-home" src="https://github.com/user-attachments/assets/b84d31f0-80d0-40fe-a3bc-066bc9a38a4b">
 <img width="1426" alt="neitek-comission" src="https://github.com/user-attachments/assets/8de0f4d1-8219-4fc6-b6b1-ac89be99982b">
-<img width="1423" alt="neitek-create-sale" src="https://github.com/user-attachments/assets/434bba77-46bd-4157-9ea3-06f1b58eb111">
 
 
 ## Features
